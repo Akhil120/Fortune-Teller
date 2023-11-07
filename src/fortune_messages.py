@@ -100,6 +100,7 @@ fortune_messages = [
     "Stay patient; good things are coming your way.",
     "A new friendship will bring joy and shared experiences.",
     "Your positive outlook will attract positive outcomes.",
+    "THIS IS A NEW MESSAGE",
     "Embrace the unexpected; it may lead to wonderful surprises.",
     "Today is a day of growth and self-improvement.",
     "Believe in the power of your dreams; they are within reach.",
